@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API test con Hydrator", "API test con Hydrator\API test con Hydrator.csproj", "{EF369C3C-1AED-4679-9105-2AD0AF3DECB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF369C3C-1AED-4679-9105-2AD0AF3DECB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF369C3C-1AED-4679-9105-2AD0AF3DECB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF369C3C-1AED-4679-9105-2AD0AF3DECB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF369C3C-1AED-4679-9105-2AD0AF3DECB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6331AA-2DC5-4F91-B567-781D35A55DC6}
+	EndGlobalSection
+EndGlobal
